@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jon Gill (j.gill@shell.com)
+- 👋 Hi, I’m Jon Gill
 - 👓 I'm a Solution/Technical architect, my goal is to leverage architecture to enable and unblock development teams.
-- 👀 I’m working on Market Analysis and SEIF.  
-- 📫 How to reach me: j.gill@shell.com or jonathan.gill"bjss.com 
+
 
 <!---
 jg-shell/jg-shell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
